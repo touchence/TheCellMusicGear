@@ -1,0 +1,20 @@
+build/PIC24EP512GU810_PIM/production/_ext/1360937237/usb_descriptors.o:  \
+ ../src/usb_descriptors.c  \
+../../../../../../framework/./USB/usb.h  \
+../../../../../../framework/./USB/GenericTypeDefs.h  \
+../../../../../../framework/./USB/Compiler.h  \
+../src/usb_config.h  \
+../../../../../../framework/USB/usb_common.h  \
+../src/system_config/exp16/pic24ep512gu810_pim/system.h  \
+../../../../../../bsp/exp16/pic24ep512gu810_pim/buttons.h  \
+../../../../../../bsp/exp16/pic24ep512gu810_pim/leds.h  \
+../src/system_config/exp16/pic24ep512gu810_pim/io_mapping.h  \
+../src/system_config/exp16/pic24ep512gu810_pim/system.h  \
+../../../../../../bsp/exp16/pic24ep512gu810_pim/power.h  \
+../src/system_config.h  \
+../src/usb_config.h  \
+../../../../../../framework/USB/usb_ch9.h  \
+../../../../../../framework/USB/usb_device.h  \
+../../../../../../framework/USB/usb_hal.h  \
+../../../../../../framework/usb/usb_hal_pic24e.h  \
+../src/system_config.h 
