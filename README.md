@@ -27,5 +27,4 @@ CMGにはMIDIコントローラとして認識されるUSBポートだけでな�
 LEDの点灯パターンやセンサ出力の利用方法をプログラミングで変更することで、あなただけの音楽機材を創り出すことが可能です。
 
 ## アップデート情報
-pic_firm_ver.1.2.0を公開致しました。(17/8/3)
-Mac用software TheCellMusicGear.appを公開致しました。(17/8/3)
+pic_firm_ver.1.2.0及びMac用software TheCellMusicGear.appを公開致しました。(17/8/3)
